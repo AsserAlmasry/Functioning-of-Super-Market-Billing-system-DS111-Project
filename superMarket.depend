@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1672143692 source:i:\supermarket\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<bits/stdc++.h>
+	<windows.h>
+	"queue1.h"
+	"animation.h"
+	"stackme.h"
+
+1672072544 i:\supermarket\queue1.h
+	<iostream>
+	<conio.h>
+	<bits/stdc++.h>
+
+1672072544 i:\supermarket\animation.h
+	<iostream>
+
+1672072544 i:\supermarket\stackme.h
+	<bits/stdc++.h>
+
+1672334589 source:c:\users\doka7\onedrive\documents\new folder\data structures\supermarket\supermarket\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<bits/stdc++.h>
+	<windows.h>
+	"queue1.h"
+	"animation.h"
+	"stackme.h"
+
+1672072544 c:\users\doka7\onedrive\documents\new folder\data structures\supermarket\supermarket\queue1.h
+	<iostream>
+	<conio.h>
+	<bits/stdc++.h>
+
+1672072544 c:\users\doka7\onedrive\documents\new folder\data structures\supermarket\supermarket\animation.h
+	<iostream>
+
+1672072544 c:\users\doka7\onedrive\documents\new folder\data structures\supermarket\supermarket\stackme.h
+	<bits/stdc++.h>
+
+1723262386 source:c:\users\zbook\onedrive\documents\c++ projects\supermarket (final file after modification )\supermarket\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<bits/stdc++.h>
+	<windows.h>
+	"queue1.h"
+	"animation.h"
+	"stackme.h"
+
+1672076144 c:\users\zbook\onedrive\documents\c++ projects\supermarket (final file after modification )\supermarket\queue1.h
+	<iostream>
+	<conio.h>
+	<bits/stdc++.h>
+
+1672076144 c:\users\zbook\onedrive\documents\c++ projects\supermarket (final file after modification )\supermarket\animation.h
+	<iostream>
+
+1672076144 c:\users\zbook\onedrive\documents\c++ projects\supermarket (final file after modification )\supermarket\stackme.h
+	<bits/stdc++.h>
+
